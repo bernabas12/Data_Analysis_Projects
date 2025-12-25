@@ -1,1 +1,22 @@
+# Prject Description
+This project analyzes customer sign up behavior and evaluates data quality for Rapid Scale, a fast growing SaaS company with tiered 
+subscription plans. The work supports the Monthly Business Review by providing reliable insights into how users join the platform, 
+which plans they choose, and where data issues may affect reporting and decisions.
 
+The project focuses on auditing a recent customer sign up dataset to identify inaccuracies, inconsistencies, and missing information. 
+You clean and standardize the data to ensure it is fit for analysis. This includes correcting inconsistent category values, handling 
+missing fields, removing duplicates, and enforcing correct data types. The outcome is a trusted dataset that can be used confidently 
+by the Business Intelligence, Marketing, and Onboarding teams.
+
+After cleaning, the project produces clear summary metrics that describe user acquisition trends. These summaries show how sign ups 
+change over time, which marketing sources and regions drive growth, how customers select subscription plans, and how marketing opt in 
+behavior varies across demographics. Age based analysis highlights differences in plan preference and engagement patterns.
+
+The project also answers practical business questions that directly support decision making. You identify the most effective acquisition 
+channels, highlight regions with data quality gaps, assess whether age influences marketing opt in, and determine which plans attract 
+different age groups. An optional extension links customer sign ups with support ticket data to understand early customer support needs 
+by plan and region.
+
+Deliverables include a Jupyter Notebook that documents the full analysis workflow and a concise PDF report that explains findings in 
+business language. Together, they demonstrate your ability to manage the full data analysis lifecycle. From raw data quality assessment 
+to actionable insights that inform marketing and onboarding strategy.
