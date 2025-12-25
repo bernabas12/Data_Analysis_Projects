@@ -1,1 +1,26 @@
+Project Description
 
+This project analyzes sales performance and customer behavior for Green Cart Ltd., a UK based e commerce company specializing in eco friendly 
+household products. The objective is to support the Q2 performance review by delivering clear, data driven insights that inform marketing, pricing, 
+and operational decisions.
+
+The project begins with loading, cleaning, and validating three core datasets covering sales transactions, product details, and customer profiles. 
+You standardize inconsistent text fields, correct data types, handle missing values, remove duplicates, and validate numeric fields to ensure 
+data accuracy and reliability. Cleaned datasets are then merged into a single analytical table that preserves all sales transactions.
+
+Feature engineering plays a central role in this analysis. You create revenue and timing based features, segment products by price bands, 
+measure time from product launch to purchase, identify delayed deliveries, and extract customer email domains. These features enable deeper 
+analysis of purchasing behavior, product performance, and operational efficiency.
+
+Using the merged dataset, the project produces summary tables that highlight weekly revenue trends by region, product category performance, 
+customer behavior by loyalty tier, delivery outcomes across regions and price bands, and payment method preferences. Visual analysis supports 
+these summaries through clearly labeled charts that reveal trends, comparisons, and relationships in the data.
+
+The final deliverable answers key business questions, including which product categories and regions generate the most revenue, 
+whether discounts drive higher sales volume, which loyalty tiers deliver the greatest value, where delivery delays are most common, 
+and how customer signup patterns relate to purchasing activity. Optional stretch analysis extends the work to identify high risk or 
+underperforming products and early customer behavior patterns.
+
+Deliverables include a well structured Jupyter Notebook documenting the full analytical workflow and a concise PDF report that translates 
+findings into actionable business insights. Together, they demonstrate your ability to manage complex datasets, apply analytical reasoning, 
+and communicate results that directly support commercial decision making.
