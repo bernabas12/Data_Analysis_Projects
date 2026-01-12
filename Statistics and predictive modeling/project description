@@ -1,1 +1,12 @@
+#Project description
 
+This project analyzes customer churn for StreamWorks Media, a UK based video streaming platform. The goal is to identify who is churning, 
+why they are leaving, and how the business can intervene early to reduce cancellations.
+
+Using subscriber level data, the project performs data cleaning, feature engineering, and exploratory analysis to uncover churn patterns 
+related to usage behavior, tenure, pricing, complaints, and engagement channels. Statistical tests are applied to validate key relationships,
+such as the impact of watch time, promotions, and referrals on churn.
+
+The project builds a logistic regression model to predict churn probability and a linear regression model to analyze factors affecting user 
+watch time or tenure. Model performance is evaluated using standard classification and regression metrics. Findings are translated into clear
+business insights and practical retention recommendations for decision makers.
